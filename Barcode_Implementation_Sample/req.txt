@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-barcode
+pillow
+reportlab
+qrcode
